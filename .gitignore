@@ -2,3 +2,5 @@ venv/
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+mlruns/
+mlflow.db
